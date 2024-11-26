@@ -2,14 +2,14 @@
 🎓 Student | 📚 Computer Applications | 💻 Aspiring Cybersecurity Professional
 Welcome to my GitHub! I’m passionate about technology and enjoy exploring various fields, including web development, database management, and cybersecurity.
 
-🔧 Skills & Tools
+🔧 Skills & Tools :
 Programming Languages: JavaScript, Python, SQL
 Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 Database Management: MySQL, MongoDB
 Data Visualization: Power BI
 Version Control: Git, GitHub
 
-📂 Projects
+📂 Projects:
 1️⃣ Student Result Management System (MERN Stack)
 Features: Admin, Faculty/Staff, and Student modules for result management.
 Technologies: MongoDB, Express.js, React.js, Node.js.
@@ -17,17 +17,17 @@ Technologies: MongoDB, Express.js, React.js, Node.js.
 Features: Comprehensive database structure for airline operations management.
 Technologies: SQL
 
-🌱 Currently Exploring
+🌱 Currently Exploring:
 Cybersecurity fundamentals and practices.
 Enhancing my expertise in Power BI for data analysis and reporting.
 
-🏆 Achievements
+🏆 Achievements:
 Successfully completed an internship at Teplar Solutions as a Web Developer.
 Acquired hands-on experience in developing full-stack web applications.
 💬 Let's Connect!
 LinkedIn: https://www.linkedin.com/in/namaneetha-natarajan/
 
-🌟 Interests
+🌟 Interests:
 Cybersecurity
 Data Visualization
 Reading Action & Thriller Books 📖
