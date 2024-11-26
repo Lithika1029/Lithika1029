@@ -37,9 +37,9 @@ LinkedIn: https://www.linkedin.com/in/namaneetha-natarajan/
 
 🌟 Interests:
 
-Cybersecurity
-Data Visualization
-Reading Action & Thriller Books 📖
+Cybersecurity,
+Data Visualization,
+Reading Action & Thriller Books 📖,
 Practicing Yoga 🧘‍♀️
 
 <!---
