@@ -1,6 +1,7 @@
 👋 Hi there, Lithika
 
 🎓 Student | 📚 Computer Applications | 💻 Aspiring Cybersecurity Professional
+
 Welcome to my GitHub! I’m passionate about technology and enjoy exploring various fields, including web development, database management, and cybersecurity.
 
 🔧 Skills & Tools :
