@@ -9,8 +9,6 @@ Welcome to my GitHub! I’m passionate about technology and enjoy exploring vari
 Programming Languages: JavaScript, Python, SQL
 Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 Database Management: MySQL, MongoDB
-Data Visualization: Power BI
-Version Control: Git, GitHub
 
 📂 Projects:
 
@@ -24,23 +22,30 @@ Technologies: SQL
 🌱 Currently Exploring:
 
 Cybersecurity fundamentals and practices.
-Enhancing my expertise in Power BI for data analysis and reporting.
 
-🏆 Achievements:
+Here’s a more personalized version of the "Areas you're working on and learning" and "Fun facts" sections for your GitHub profile:
 
-Successfully completed an internship at Teplar Solutions as a Web Developer.
-Acquired hands-on experience in developing full-stack web applications.
+🌱 I’m currently working on:
+
+Gaining hands-on experience with cybersecurity tools and methodologies to deepen my understanding of securing applications and data.
+
+🌱 I’m currently learning:
+
+Cybersecurity concepts such as ethical hacking, penetration testing, and secure coding practices.
+
+New frameworks and libraries in web development to enhance my MERN stack skills, such as React hooks, Node.js advancements, and MongoDB optimizations.
+
+⚡ Fun facts about me:
+
+Action and thriller books are my go-to genre—reading them sharpens my problem-solving skills and helps me stay calm under pressure.
+
+Yoga is a big part of my life! It not only keeps me fit but also helps me maintain mental clarity, which is essential when tackling complex problems in coding and cybersecurity.
+
+I'm always up for a good challenge, whether it's solving coding problems or unraveling thrilling plots in my books!
 
 💬 Let's Connect!
 
 LinkedIn: https://www.linkedin.com/in/namaneetha-natarajan/
-
-🌟 Interests:
-
-Cybersecurity,
-Data Visualization,
-Reading Action & Thriller Books 📖,
-Practicing Yoga 🧘‍♀️
 
 <!---
 Lithika1029/Lithika1029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
