@@ -23,8 +23,6 @@ Technologies: SQL
 
 Cybersecurity fundamentals and practices.
 
-Here’s a more personalized version of the "Areas you're working on and learning" and "Fun facts" sections for your GitHub profile:
-
 🌱 I’m currently working on:
 
 Gaining hands-on experience with cybersecurity tools and methodologies to deepen my understanding of securing applications and data.
